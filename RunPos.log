@@ -1,0 +1,8 @@
+   0.000  31696 I RunPos Version 9.1.0.165 Copyright 2001-2018 Compris Technologies, Inc.
+   0.000  31696 I Command line: runpos  gpos pos1 9999
+   0.000  31696 I Time: 20210702-16:29:25
+   0.047  31696 I StartService PosDbService
+   0.063  31696 I StartService CommCenterService
+   0.063  31696 I StartService PosDbService
+   0.063  31696 I StartService CommCenterService
+   0.094  31696 I Started "EXE\gpos pos1 9999"
